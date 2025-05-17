@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1742301658 source:e:\bsi - s1\prog. estruturada\aula1ex3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<locale.h>
+
