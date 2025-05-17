@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743505221 source:c:\users\aluno\documents\codeblocks\aula4ex3\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<locale.h>
+	<cctype>
+

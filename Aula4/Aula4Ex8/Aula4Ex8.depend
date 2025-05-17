@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1743511313 source:c:\users\aluno\documents\codeblocks\aula4ex8\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<locale.h>
+	<cctype>
+
+1743511444 source:d:\bsi - s1\prog. estruturada\aula4ex8\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<locale.h>
+	<cctype>
+
