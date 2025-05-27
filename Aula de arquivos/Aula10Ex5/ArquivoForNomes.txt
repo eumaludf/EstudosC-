@@ -1,0 +1,2 @@
+Este é um texto experimental.
+Ele foi escrito para testar experimentalmente um algorítimo em C++ que lê arquivos.

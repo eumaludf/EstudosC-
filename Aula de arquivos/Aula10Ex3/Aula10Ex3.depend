@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748344610 source:c:\users\aluno\downloads\aula de arquivos\aula10ex3\main.cpp
+	<iostream>
+	<fstream>
+
