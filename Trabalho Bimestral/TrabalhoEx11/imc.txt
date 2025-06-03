@@ -1,0 +1,10 @@
+
+Nome: malu
+Peso: 89.00 kg
+Altura: 1.00 m
+IMC: 89.00
+
+Nome: Leo
+Peso: 95.00 kg
+Altura: 1.00 m
+IMC: 95.00
