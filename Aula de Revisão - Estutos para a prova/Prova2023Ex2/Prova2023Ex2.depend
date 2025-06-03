@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748950705 source:c:\users\aluno\documents\codeblocks\prova2023ex2\main.cpp
+	<iostream>
+	<locale.h>
+
