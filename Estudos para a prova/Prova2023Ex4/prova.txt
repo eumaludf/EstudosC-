@@ -1,0 +1,12 @@
+
+Código do produto: 11111
+Valor de custo: 20.00
+Valor de venda: 25.00
+Quantidade em estoque: 4
+Lucro possível: -20.00
+
+Código do produto: 33333
+Valor de custo: 300.00
+Valor de venda: 450.00
+Quantidade em estoque: 30
+Lucro possível: -4500.00
